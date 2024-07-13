@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Pranesh M
 
 Computer Science Engineering Student
-<img align="right" width="370" height="290" src="https://pin.it/65ThJHlDZ">                                                
+<img align="right" width="370" height="290" src="https://i.pinimg.com/564x/cb/c7/6a/cbc76a054c9599cc13d5d69910029a15.jpg">                                                
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on AWS
 - 🤔 I’m looking for help with Placements 
